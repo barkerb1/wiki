@@ -2,4 +2,21 @@
 <!-- SUBTITLE: Homepage for the CAS KB -->
 
 # Install
-[video](https://www.youtube.com/watch?v=X4XOIAoYpvA){.youtube}
+1. Get the code
+`git clone https://github.com/Requarks/wiki.git
+git checkout 1.0.4`
+
+2. Install the dependencies and build the packages
+`npm install
+npm run build`
+
+3. Configure the server
+`node wiki configure 3000`
+or
+`config.yml`
+> ** Configuration options **
+> The configuration portal is just a web interface for creating the config.yml file, it can be created manually in a text editor.
+
+4. Visit the wiki for additional information - https://docs.requarks.io/wiki/dev-guide
+
+
