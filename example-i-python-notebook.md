@@ -1,3 +1,4 @@
+[Plot](/uploads/test-2/plot.ipynb "Plot")
 ### GE Stock
 
 Migrate data
