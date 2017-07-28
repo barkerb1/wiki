@@ -1,3 +1,5 @@
+
+
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Sample homepage with instructions to build this site -->
 
@@ -10,12 +12,20 @@ git checkout 1.0.4
 ```
 
 
+
+-----
+
+
 2. Install the dependencies and build the packages
 
 ```text
 npm install
 npm run build
 ```
+
+
+-----
+
 
 
 3. Configure the server
