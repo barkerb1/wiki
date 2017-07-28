@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: Homepage for the CAS KB -->
+<!-- SUBTITLE: Sample homepage with instructions to build this site -->
 
 # Install
 1. Get the code
