@@ -1,7 +1,7 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Sample homepage with instructions to build this site -->
 
-> # Install
+# Install
 1. Get the code
 
 ```text
