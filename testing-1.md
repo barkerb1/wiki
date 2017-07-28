@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Testing 1 -->
 
 # Header
-123
+123![Logo](/uploads/logo.png "Logo")
