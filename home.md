@@ -3,12 +3,20 @@
 
 # Install
 1. Get the code
-`git clone https://github.com/Requarks/wiki.git
-git checkout 1.0.4`
+
+```text
+git clone https://github.com/Requarks/wiki.git
+git checkout 1.0.4
+```
+
 
 2. Install the dependencies and build the packages
-`npm install
-npm run build`
+
+```text
+npm install
+npm run build
+```
+
 
 3. Configure the server
 `node wiki configure 3000`
