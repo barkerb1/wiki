@@ -22,9 +22,9 @@ npm run build
 `node wiki configure 3000`
 or
 `config.yml`
->  :information:  **Configuration options**
+>  :warning:  **Configuration options**
 > The configuration portal is just a web interface for creating the config.yml file, it can be created manually in a text editor.
-{.is-error}
+{.is-warning}
 4. Visit the wiki for additional information - https://docs.requarks.io/wiki/dev-guide
 
 
